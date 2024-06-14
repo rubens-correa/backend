@@ -16,8 +16,8 @@
 
 ***Clone o repositório:***
 ```
-git clone https://github.com/rubens-correa/backend.git
-cd backend
+git clone https://github.com/rubens-correa/backend-cadastro-clientes.git
+cd backend-cadastro-clientes
 
 ```
 
