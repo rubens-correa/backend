@@ -75,7 +75,7 @@ model Customer {
 
 ## Frontend da Aplicação
 
-### Para rodar o backend desta aplicação, siga as instruções no repositório do backend:
+### Para rodar o frontend desta aplicação, siga as instruções no repositório do frontend:
 
 ***<a href="https://github.com/rubens-correa/frontend-cadastro-clientes.git">Frontend Cadastro de Clientes</a>***
 
